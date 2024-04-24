@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+}
+h1{
+    text-align: center;
+    background-color: aqua;
+    padding: 35px;
+    
+}
+h2{
+    text-align: center;
+    background-color: rgb(57, 43, 136);
+    padding: 35px;
+    
+}
+.container{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    
+}
